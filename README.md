@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First one
+Hi Everyone,
+
+I am a passionate developer, Linux, Solaris, Android, Arduino, Web, you name it.
